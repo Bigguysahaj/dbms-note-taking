@@ -44,7 +44,8 @@ entities; for example, a works-on relationship between an employee and a project
 Three schema architecture promotes data independance (changes in one level do not affect other levels),
 Mapping between levels facilitates easy transformation of requests for each level.
 
-[photo here]
+![image](https://github.com/user-attachments/assets/ccce4051-dcd0-4027-89b7-6e236e61682e)
+
 
 ### Data independence
 - Logical data independence is the capacity to change the conceptual schema without having
@@ -59,7 +60,8 @@ These are used to interact with the database, and are of two types:
 - DML (Data Manipulation Language) - used to manipulate the data in the database (SELECT, INSERT, UPDATE, DELETE, etc.)
 
 use mind palace here 
-[diagram ]
+![image](https://github.com/user-attachments/assets/fc08d8c3-95fb-453c-83d0-ccf08eeee932)
+![image](https://github.com/user-attachments/assets/f9e023db-f2cb-4cb2-8e79-4c38d6504ec3)
 
 DBMS Interfaces
 Menu-Based Interfaces for Browsing
